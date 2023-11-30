@@ -1,0 +1,17 @@
+Voici la méthodologie à appliquer pour le brief
+Affiche un message dans la console (déjà fourni) 
+Attend que le document soit chargé pour exécuter du code (déjà fourni)
+ 
+Fonction pour formater les montants d'argent en euros
+Fonction pour générer le template HTML pour chaque opération
+Fonction pour afficher les opérations sur la page
+Fonction pour générer un graphique basé sur les opérations
+Fonction pour créer une nouvelle opération financière
+Fonction pour afficher le solde et un commentaire sur la situation financière
+Fonctions pour calculer le total des opérations de crédit et débit
+Fonction pour gérer la navigation dans le menu
+Fonction pour vider le formulaire après l'ajout d'une opération
+Gestion des événements de la barre de navigation
+Gestion de l'ajout de nouvelles opérations via un formulaire
+Initialisation des données et affichage initial de la page
+Ajout d'options supplémentaires
