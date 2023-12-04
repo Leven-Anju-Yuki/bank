@@ -209,3 +209,22 @@ function menu(etcMenu) {
 }
 
 //======================== fin essaie florie ========================//
+
+// Ajoute le bouton "rez" et réinitialise l'operationForm -JIMMY//
+// const createButton= document.createElement('button')
+// createButton.innerText= 'Rez'
+// document.body.appendChild(operationForm);
+
+// function formClean(operationForm) {
+//   // Réinitialise la valeur du champ 'operator' du formulaire à '--'
+//   operationForm.operator.value = "--";
+
+//   // Réinitialise la valeur du champ 'titre' du formulaire à une chaîne vide
+//   operationForm.titre.value = "";
+
+//   // Réinitialise la valeur du champ 'desc' du formulaire à une chaîne vide
+//   operationForm.desc.value = "";
+
+//   // Réinitialise la valeur du champ 'montant' du formulaire à null
+//   operationForm.montant.value = null;
+// }

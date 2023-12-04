@@ -57,7 +57,7 @@ function filtrerOperationsParType(operations, type) {}
 
 const createButton= document.createElement('button')
 createButton.innerText= 'Rez'
-document.body.appendChild(createButton);
+document.body.appendChild(operationForm);
 
 // Test Jimmy//
 function formClean(operationForm) {
